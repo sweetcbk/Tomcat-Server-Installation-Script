@@ -8,11 +8,10 @@
 [root@ip-172-31-37-34 ~]# cd /
 [root@ip-172-31-37-34 /]# cd /opt
 
-[root@ip-172-31-37-34 opt]# wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.68/bin/apache-tomcat-9.0.68.tar.gz
-[root@ip-172-31-37-34 opt]# tar -zvxf apache-tomcat-9.0.68.tar.gz 
-
-
-
+:: -->> More Tomcat Version Download Link:- https://dlcdn.apache.org/tomcat/
+[root@ip-172-31-37-34 opt]# wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.72/bin/apache-tomcat-9.0.71.tar.gz
+[root@ip-172-31-37-34 opt]# tar -zvxf apache-tomcat-9.0.71.tar.gz
+ 
 
 [root@ip-172-31-37-34 opt]# cd apache-tomcat-9.0.68/
 [root@ip-172-31-37-34 apache-tomcat-9.0.68]# cd bin
